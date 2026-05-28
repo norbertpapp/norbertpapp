@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @norbertpapp
-- 👀 I’m interested in front-end web development, web design.
-- 💞️ I’m looking to collaborate on anything you see fit for me.
+- 👀 I’m a front-end web developer who works on VueJS projects.
 - 📫 How to reach me:
   - via LinkedIn - https://www.linkedin.com/in/norbertpapp/
 
